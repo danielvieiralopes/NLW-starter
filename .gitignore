@@ -1,0 +1,12 @@
+/node_modules
+
+
+# To create .gitignore file use touch command
+
+# user-name$ touch .gitignore
+# then open .gitignore file and add /node_modules
+
+# .gitignore
+# /node_modules
+
+# it will work.
