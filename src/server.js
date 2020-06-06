@@ -18,19 +18,19 @@ nunjucks.configure("src/views", {
 // configurar caminhos da minha aplicação 
 
 //pagina inicial 
-//req: requisicao
+//req: requisicao  
 //res: respota
-server.get("/", (req, res) =>{
-   return  res.render("index.html")
-     
+server.get("/", (req, res) => {
+    return res.render("index.html", {title: "Um titulo"})
+
 })
 
-server.get("/create-point", (req, res) =>{
-    return res.render("create-point.html")   
+server.get("/create-point", (req, res) => {
+    return res.render("create-point.html")
 })
 
-server.get("/search-results", (req, res) =>{
-    return res.render("search-results.html")   
+server.get("/search", (req, res) => {
+    return res.render("search-results.html")
 })
 
 // ligar o servidor 

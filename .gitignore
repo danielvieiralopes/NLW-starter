@@ -10,3 +10,8 @@
 # /node_modules
 
 # it will work.
+
+#  npm install express
+
+# npm install nodemon -D
+# npm install nunjucks
