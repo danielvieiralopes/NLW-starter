@@ -13,18 +13,22 @@
 ## Como baixar o projeto.
 
 #Clonar o repositório
-$git clone https://github.com/danielvieiralopes/NLW-starter.git
-
+``` JS
+$git clone https://github.com/danielvieiralopes/NLW-starter.git``
+```
 #Entrar no diretório
+``` JS
 $cd nlw-starter
-
+```
 
 #Instalar dependências 
+``` JS
 $npm install
- 
+``` 
 #Inicializar o projeto
+``` JS
 $npm start
-
+``` 
 <h3> <img src="https://i.pinimg.com/originals/77/6a/b5/776ab5933cf08e67f43ead05a6f864d2.jpg" width="70px" height="70px" align="center"/> Preview </h3>
 
  <img src = "https://github.com/danielvieiralopes/NLW-starter/blob/master/Ecoleta.gif">
