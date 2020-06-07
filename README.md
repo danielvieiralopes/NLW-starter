@@ -14,7 +14,7 @@
 
 #Clonar o repositório
 ``` JS
-$git clone https://github.com/danielvieiralopes/NLW-starter.git``
+$git clone https://github.com/danielvieiralopes/NLW-starter.git
 ```
 #Entrar no diretório
 ``` JS
