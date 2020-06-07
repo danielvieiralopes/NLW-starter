@@ -10,22 +10,22 @@
 <li> SQL </li>
 <li> SQLite </li> </ul> </p>
 
-## Como baixar o projeto.
+# Como baixar o projeto.
 
-# Clonar o repositório
+### Clonar o repositório
 ``` JS
 $git clone https://github.com/danielvieiralopes/NLW-starter.git
 ```
-# Entrar no diretório
+### Entrar no diretório
 ``` JS
 $cd nlw-starter
 ```
 
-# Instalar dependências 
+### Instalar dependências 
 ``` JS
 $npm install
 ``` 
-# Inicializar o projeto
+### Inicializar o projeto
 ``` JS
 $npm start
 ``` 
