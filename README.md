@@ -10,19 +10,20 @@
 <li> SQL </li>
 <li> SQLite </li> </ul> </p>
 
-## Baixando arquivos para funcionalidade
+## Como baixar o projeto.
 
-``` JS
-/node_modules
-```
+#Clonar o repositório
+$git clone https://github.com/danielvieiralopes/NLW-starter.git
 
-``` JS
-npm install express
-npm install nodemon -D
-npm install nunjucks
-npm install sqlite3
+#Entrar no diretório
+$cd nlw-starter
 
-```
+
+#Instalar dependências 
+$npm install
+ 
+#Inicializar o projeto
+$npm start
 
 <h3> <img src="https://i.pinimg.com/originals/77/6a/b5/776ab5933cf08e67f43ead05a6f864d2.jpg" width="70px" height="70px" align="center"/> Preview </h3>
 
