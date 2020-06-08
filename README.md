@@ -10,7 +10,7 @@
 <li> SQL </li>
 <li> SQLite </li> </ul> </p>
 
-# Como baixar o projeto.
+# Como baixar o projeto
 
 ### Clonar o repositório
 ``` JS
@@ -29,7 +29,7 @@ $npm install
 ``` JS
 $npm start
 ``` 
-<h3> <img src="https://i.pinimg.com/originals/77/6a/b5/776ab5933cf08e67f43ead05a6f864d2.jpg" width="70px" height="70px" align="center"/> Preview </h3>
+<h3> <img src="https://i.pinimg.com/originals/77/6a/b5/776ab5933cf08e67f43ead05a6f864d2.jpg" width="70px" height="70px" align="center"/> # Preview </h3>
 
  <img src = "https://github.com/danielvieiralopes/NLW-starter/blob/master/Ecoleta.gif">
 
